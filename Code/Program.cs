@@ -1,32 +1,18 @@
-﻿namespace Code
+﻿using Code.Models;
+
+namespace Code
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Person person1 = new Person("Elmir");
-            person1.ShowInfo();
-        }
-    }
+            int diff;
+            Order order1 = new Order(1, "Laptop", 2, 1500m);
 
-    class Person
-    {
-        public string Name;
-        public string Surname;
-        public byte Age;
-        public bool IsMarried;
+            OnlineOrder onlineOrder1 = new OnlineOrder(2, "Smartphone", 1, 800, 6200);
 
-        public Person(string name = "John", string surname = "Doe", byte age = 0, bool isMarried = false)
-        {
-            Name = name;
-            Surname = surname;  
-            Age = age;
-            IsMarried = isMarried;
-        }
+            onlineOrder1.showOnlineInfo();
 
-        public void ShowInfo()
-        {
-            Console.WriteLine($"Name: {Name}, Surname: {Surname}, Age: {Age}, IsMarried: {IsMarried}");
         }
     }
 }
