@@ -1,0 +1,15 @@
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\bin\Debug\net10.0\Neqliyat Sistemi.exe
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\bin\Debug\net10.0\Neqliyat Sistemi.deps.json
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\bin\Debug\net10.0\Neqliyat Sistemi.runtimeconfig.json
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\bin\Debug\net10.0\Neqliyat Sistemi.dll
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\bin\Debug\net10.0\Neqliyat Sistemi.pdb
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\obj\Debug\net10.0\Neqliyat Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\obj\Debug\net10.0\Neqliyat Sistemi.AssemblyInfoInputs.cache
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\obj\Debug\net10.0\Neqliyat Sistemi.AssemblyInfo.cs
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\obj\Debug\net10.0\Neqliyat Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\obj\Debug\net10.0\Neqliyat Sistemi.sourcelink.json
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\obj\Debug\net10.0\Neqliyat Sistemi.dll
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\obj\Debug\net10.0\refint\Neqliyat Sistemi.dll
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\obj\Debug\net10.0\Neqliyat Sistemi.pdb
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\obj\Debug\net10.0\Neqliyat Sistemi.genruntimeconfig.cache
+C:\Users\Echos\Desktop\Other_Task\Neqliyat Sistemi\obj\Debug\net10.0\ref\Neqliyat Sistemi.dll
