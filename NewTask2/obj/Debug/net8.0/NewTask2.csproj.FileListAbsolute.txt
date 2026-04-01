@@ -1,0 +1,14 @@
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\bin\Debug\net8.0\NewTask2.exe
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\bin\Debug\net8.0\NewTask2.deps.json
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\bin\Debug\net8.0\NewTask2.runtimeconfig.json
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\bin\Debug\net8.0\NewTask2.dll
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\bin\Debug\net8.0\NewTask2.pdb
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\obj\Debug\net8.0\NewTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\obj\Debug\net8.0\NewTask2.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\obj\Debug\net8.0\NewTask2.AssemblyInfo.cs
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\obj\Debug\net8.0\NewTask2.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\obj\Debug\net8.0\NewTask2.dll
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\obj\Debug\net8.0\refint\NewTask2.dll
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\obj\Debug\net8.0\NewTask2.pdb
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\obj\Debug\net8.0\NewTask2.genruntimeconfig.cache
+C:\Users\Classtime.PC_3_506_16\Desktop\APA202\NewTask2\obj\Debug\net8.0\ref\NewTask2.dll
